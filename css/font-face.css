@@ -1,0 +1,40 @@
+@font-face {
+   font-family: Goudy;
+   font-style: normal;
+   font-weight: normal;
+   src: url("/fonts/GoudyBookletter1911.otf");
+}
+
+@font-face {
+   font-family: "Chunk Bold";
+   font-style: normal;
+   font-weight: bold;
+   src: url("/fonts/Chunk.otf");
+}
+
+@font-face {
+   font-family: "League Gothic";
+   font-style: normal;
+   font-weight: normal;
+   src: url("/fonts/LeagueGothic.otf");
+}
+
+@font-face {
+   font-family: "League Gothic Bold";
+   font-style: normal;
+   font-weight: bold;
+   src: url("/fonts/LeagueGothic.otf");
+}
+
+@font-face {
+   font-family: "Prociono";
+   font-style: normal;
+   font-weight: normal;
+   src: url("/fonts/Prociono.otf");
+}
+@font-face {
+   font-family: "Prociono Bold";
+   font-style: normal;
+   font-weight: bold;
+   src: url("/fonts/ProcionoTT.ttf");
+}
